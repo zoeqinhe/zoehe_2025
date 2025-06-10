@@ -76,7 +76,7 @@ table, th, td {
   <a target="_blank" href="{{site.baseurl}}/images/duoduo.png">
     <img src="{{site.baseurl}}/images/duoduo.png" alt="duoduo">
   </a>
-  <div class="desc">My Cousin and I</div>
+  <div class="desc">My Cousin andI</div>
 </div>
 <div class="gallery">
   <a target="_blank" href="{{site.baseurl}}/images/arcade.png">
